@@ -8,7 +8,7 @@
 **BonRadar** združuje informacije o lokaciji študenta, javnem prevozu in restavracijah, ki ponujajo študentsko prehrano na bone. Na podlagi razpoložljivega časovnega okna in uporabnikovih preferenc prikaže primerne možnosti za kosilo ter predlaga ustrezne avtobusne povezave. Tako študentom olajša načrtovanje obrokov med predavanji in jim pomaga, da se pravočasno vrnejo k študijskim obveznostim.
 
 ## Zahteve
--Java 25 ali novejša
--Maven 3.9 ali novejši
-    
+- Java 25 ali novejša
+- Maven 3.9 ali novejši
+
 
